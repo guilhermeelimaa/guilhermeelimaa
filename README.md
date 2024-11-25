@@ -9,6 +9,10 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guilhermeelimaa&bg_color=000000&color=6824a6&line=6824a6&point=6824a6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<img align="right" alt="Gui" 
+     src="https://cdn.discordapp.com/attachments/1212814550550712371/1310600624152379483/ezgif.com-animated-gif-maker.gif?ex=6745cf72&is=67447df2&hm=f95821b2211bad09dda83d2e006c916144b781b1d2fadd7c61f479108bd4ac61&" 
+     width="150" height="150">
+
 ### Main skills:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
@@ -29,6 +33,7 @@
 ### Studying in this moment:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+
 
 
 <div align="center">
