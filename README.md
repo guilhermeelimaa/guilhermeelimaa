@@ -5,6 +5,13 @@
 Me chamo Guilherme Lima, tenho 20 anos e sou natural de Santa Catarina. Estou cursando Análise e Desenvolvimento de Sistemas na UNISUL. Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades para crescer como desenvolvedor. Sou fascinado por tecnologia e por como ela pode transformar ideias em soluções reais. Meu interesse pela área me levou a estudar programação e aprimorar minhas habilidades no desenvolvimento de software. Atualmente, estou em busca de uma oportunidade como Desenvolvedor Júnior, onde possa aplicar e expandir meus conhecimentos. 
 
 <p align="left">
+    <a href="https://www.linkedin.com/in/guilhermee-limaa/">
+        <img 
+            alt="LinkedIn" 
+            title="Acesse meu LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
     <a href="https://github.com/guilhermeelimaa?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -19,13 +26,7 @@ Me chamo Guilherme Lima, tenho 20 anos e sou natural de Santa Catarina. Estou cu
             src="https://custom-icon-badges.demolab.com/github/followers/guilhermeelimaa?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/guilhermee-limaa/">
-        <img 
-            alt="LinkedIn" 
-            title="Acesse meu LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
+    
 </p>
 
 ---
